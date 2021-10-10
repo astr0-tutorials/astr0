@@ -1,0 +1,17 @@
+{
+  "name": "astr0",
+  "version": "1.0.0",
+  "description": "the ultimate discord selfbot, coded by Astr0",
+  "main": "index.js",
+  "scripts": {
+    "test": ">ping"
+  },
+  "author": "Astr0",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js-selfbot": "^12.0.2",
+    "domain-ping": "^0.2.1",
+    "superagent": "^6.1.0"
+  }
+}
