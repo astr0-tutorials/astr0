@@ -20,9 +20,13 @@ To get started, simply setup the `config.json` file with your user token and you
 - `iplookup <IPv4 address>` returns informations on an IP address, such as its location.
 - `domainping <non-absolute URL>` checks if a domain is responding to ping requests.
 
+### Raid
+- `deleteall` deletes all the channels from the current server.
+
 ### Text
 - `embed <title>, <text>` sends an embed with the specified text and title (splited with a comma).
 - `cembed <title>, <text>, [footer text], [image URL]` sends a custom embed with the specified parameters, splited with commas.
+- `tts <message>` makes discord read a tts message into the current channel.
 
 ### Trolling
 - `ghostping <user ID> [channel mention]` pings an user and deletes the message just after (in a specific channel, if specified).
