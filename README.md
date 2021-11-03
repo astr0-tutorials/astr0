@@ -22,6 +22,8 @@ To get started, simply setup the `config.json` file with your user token and you
 
 ### Raid
 - `deleteall` deletes all the channels from the current server.
+- `nuke` nukes the current channel.
+- `spam <current / all>` spams either the current channel or all the channels from a server.
 
 ### Text
 - `embed <title>, <text>` sends an embed with the specified text and title (splited with a comma).
