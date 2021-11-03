@@ -9,7 +9,7 @@ My goal is to give you a clean and opensource code to edit and play with. Feel f
 Selfbots are not allowed by discord. I'm not responsable for any of the consequences you could possibly endure.
 
 ## Get started
-To get started, simply setup the `config.json` file with your user token and your desired prefix. Then run `npm install` to install the required dependencies.
+To get started, simply setup the `config.json` file with your user token and your desired prefix. Then run `npm install` to install the required dependencies. Finally, run `node index` to start the selfbot!
 
 ## Current commands
 ### Info
